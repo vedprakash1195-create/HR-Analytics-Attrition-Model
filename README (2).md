@@ -55,4 +55,4 @@ The dashboard includes:
 
 ## 👨‍💻 Author
 
-Nutan Sarnobat
+Ved Prakash
